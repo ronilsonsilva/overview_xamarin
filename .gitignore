@@ -3,3 +3,8 @@
 ################################################################################
 
 /TesteXamarin/TesteXamarin/bin/Debug/netstandard2.0
+/TesteXamarin/TesteXamarin/obj
+/TesteXamarin/TesteXamarin.Android/bin/Debug
+/TesteXamarin/TesteXamarin.Android/obj
+/TesteXamarin/TesteXamarin.iOS/obj
+/.vs
